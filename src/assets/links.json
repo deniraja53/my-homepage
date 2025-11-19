@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Blog",
+    "icon": "📝",
+    "url": "https://www.google.com/search?q=myblog"
+  },
+  {
+    "title": "Musik",
+    "icon": "🎧",
+    "url": "https://www.youtube.com/music"
+  },
+  {
+    "title": "GitHub",
+    "icon": "🐙",
+    "url": "https://github.com/akunanda"
+  },
+  {
+    "title": "Lainnya",
+    "icon": "🔗",
+    "url": "https://www.google.com"
+  }
+]
